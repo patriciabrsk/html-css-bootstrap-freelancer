@@ -17,3 +17,11 @@ h1 {
 .my-color-jumbo {
     background-color: #19bc9c;
 }
+
+p {
+    font-size: 1.5rem;
+}
+
+.my-red-bg {
+    background-color: #ba4b63;
+}
