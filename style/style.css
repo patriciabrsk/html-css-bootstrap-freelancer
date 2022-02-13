@@ -24,12 +24,14 @@ p {
 
 .my-red-bg {
     background-color: #ba4b63;
-    height: 400px;
-    width: 600px;
+    height: 300px;
+    width: 400px;
 }
 
 .my-turquoise {
     background-color: #1ca4b5;
+    height: 300px;
+    width: 400px;
 }
 
 .black {
@@ -39,7 +41,7 @@ p {
 
 .circle {
     background-color: white;
-    height: 250px;
-    width: 250px
+    height: 200px;
+    width: 200px
 }
 
