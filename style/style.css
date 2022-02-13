@@ -29,3 +29,8 @@ p {
 .my-turquoise {
     background-color: #1ca4b5;
 }
+
+.black {
+    background-color: black;
+    height: 120px;
+}
