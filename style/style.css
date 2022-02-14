@@ -17,7 +17,6 @@ section#jumbotron {
 section#jumbotron div.jumbo-box {
     margin: 0 auto;
     width: 90%;
-    /* background-color: blue; */
 }
 
 section#jumbotron div.jumbo-box img {
@@ -38,30 +37,32 @@ section#jumbotron p {
 }
 
 /* Portfolio section */
-.my-red-bg {
+section#portfolio img {
+    width: 100%
+}
+
+section#portfolio .my-red-bg {
     background-color: #ba4b63;
 }
 
-.my-turquoise {
+section#portfolio .my-turquoise {
     background-color: #1ca4b5;
 }
 
-.my-light-blue-bg {
+section#portfolio .my-black-bg {
+    background-color: black;
+}
+
+section#portfolio .my-light-blue-bg {
     background-color: #1b83c1 ;
 }
 
-.my-dark-blue-bg {
+section#portfolio .my-dark-blue-bg {
     background-color: #0f38b5;
 }
 
-.my-khaki-bg {
+section#portfolio .my-khaki-bg {
     background-color: #ccb2a3;
-}
-
-.circle {
-    background-color: white;
-    height: 200px;
-    width: 200px
 }
 
 /* About section */
@@ -75,12 +76,16 @@ section#about {
 
 /* Contact me section */
 section#contact-me {
-
 }
 
+/* Footer */
 footer .my-footer-top {
     background-color: #3B536D;
     height: 120px;
+}
+
+.ft-bg-color {
+    background-color: #3B536D;
 }
 
 footer .my-footer-bottom {
