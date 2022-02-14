@@ -62,12 +62,12 @@ p {
     width: 200px
 }
 
-footer.footer-top {
+footer .my-footer-top {
     background-color: #3B536D;
     height: 120px;
 }
 
-footer.footer-bottom {
+footer .my-footer-bottom {
     background-color: #2c3e4f;
     height: 60px;
 }
