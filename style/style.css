@@ -1,9 +1,7 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
 
 body {
     font-family: 'Roboto', sans-serif;
-    /* font-family: 'Poppins', sans-serif; */
 }
 
 header {
@@ -15,12 +13,12 @@ h1 {
 }
 
 section#jumbotron {
-    background-color: #19bc9c;
+    background-color: #19bc9c
 }
 
-div.jumnbo-box {
-    height: 300px;
-    width: 400px;
+div.jumbo-box {
+    height: 400px;
+    width: 600px;
     margin: 0 auto;
     background-color: blue;
 }
