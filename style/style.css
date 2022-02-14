@@ -4,10 +4,12 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+/* Header */
 header {
     background-color: #2c3e4f;
 }
 
+/* Jumbotron section */
 section#jumbotron {
     background-color: #19bc9c;
 }
@@ -35,25 +37,17 @@ section#jumbotron p {
     font-size: 1.5rem;
 }
 
-section#about {
-    background-color: #19bc9c;
-    height: 600px;
-}
-
-section#contact-me {
-
-}
-
+/* Portfolio section */
 .my-red-bg {
     background-color: #ba4b63;
-    height: 300px;
-    width: 400px;
 }
 
 .my-turquoise {
     background-color: #1ca4b5;
-    height: 300px;
-    width: 400px;
+}
+
+.my-light-blue-bg {
+    background-color: #1b83c1 ;
 }
 
 .black {
@@ -65,6 +59,17 @@ section#contact-me {
     background-color: white;
     height: 200px;
     width: 200px
+}
+
+/* About section */
+section#about {
+    background-color: #19bc9c;
+    height: 600px;
+}
+
+/* About section */
+section#contact-me {
+
 }
 
 footer .my-footer-top {
