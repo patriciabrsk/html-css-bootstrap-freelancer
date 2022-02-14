@@ -15,18 +15,18 @@ section#jumbotron {
 }
 
 section#jumbotron div.jumbo-box {
-    width: 600px;
     margin: 0 auto;
+    width: 90%;
     /* background-color: blue; */
 }
 
 section#jumbotron div.jumbo-box img {
-    width: 250px;
+    width: 220px;
 }
 
-section#jumbotron h1 {
+/* section#jumbotron h1 {
     font-size: 3.5rem;
-}
+} */
 
 section#jumbotron .line {
     width: 100px;
@@ -67,10 +67,13 @@ section#jumbotron p {
 /* About section */
 section#about {
     background-color: #19bc9c;
-
 }
 
-/* About section */
+.my-btn-green {
+    background-color: #19bc9c;
+}
+
+/* Contact me section */
 section#contact-me {
 
 }
