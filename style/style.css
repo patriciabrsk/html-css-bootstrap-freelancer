@@ -24,7 +24,11 @@ div.jumbo-box {
     height: 400px;
     width: 600px;
     margin: 0 auto;
-    background-color: blue;
+    /* background-color: blue; */
+}
+
+div.jumbo-box img {
+    width: 200px;
 }
 
 section#about {
