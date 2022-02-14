@@ -50,9 +50,12 @@ section#jumbotron p {
     background-color: #1b83c1 ;
 }
 
-.black {
-    background-color: black;
-    height: 250px;
+.my-dark-blue-bg {
+    background-color: #0f38b5;
+}
+
+.my-khaki-bg {
+    background-color: #ccb2a3;
 }
 
 .circle {
