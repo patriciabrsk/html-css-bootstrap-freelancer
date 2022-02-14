@@ -17,7 +17,7 @@ h1 {
 }
 
 section#jumbotron {
-    background-color: #19bc9c
+    background-color: #19bc9c;
 }
 
 div.jumbo-box {
@@ -28,7 +28,7 @@ div.jumbo-box {
 }
 
 section#about {
-
+    background-color: #19bc9c;
 }
 
 section#contact-me {
