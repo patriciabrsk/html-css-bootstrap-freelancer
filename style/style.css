@@ -14,12 +14,7 @@ section#jumbotron {
     background-color: #19bc9c;
 }
 
-section#jumbotron div.jumbo-box {
-    margin: 0 auto;
-    width: 90%;
-}
-
-section#jumbotron div.jumbo-box img {
+section#jumbotron img {
     width: 220px;
 }
 
@@ -27,9 +22,13 @@ section#jumbotron div.jumbo-box img {
     font-size: 3.5rem;
 } */
 
-section#jumbotron .line {
-    width: 100px;
-    border-bottom: 1px solid whtie;
+section#jumbotron .star-line::before,
+section#jumbotron .star-line::before  {
+    /* width: 100px; */
+    content: "";
+    text-align: center;
+    background-color: white;
+    border-bottom: 1px solid white;
 }
 
 section#jumbotron p {
